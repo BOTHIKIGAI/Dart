@@ -20,4 +20,7 @@ void main() {
   Las funciones que no son explicitas en el tipo de dato que retornaran tiene la palabra
   reservada void
 
+  print('');
+  Para imprimir por consola se utiliza la palabra reservada print
+
 */
